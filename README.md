@@ -1,4 +1,4 @@
 # Portfolio
 
-[Personal Portfolio](https://sumitgirwal.github.io/portfolio/)
+[Check Portfolio](https://sumitgirwal.github.io/portfolio/)
 
